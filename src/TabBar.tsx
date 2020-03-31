@@ -472,7 +472,6 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   scroll: {
-    overflow: 'scroll',
   },
   tabBar: {
     backgroundColor: '#2196f3',
